@@ -1,7 +1,7 @@
 <?php
 /**
- * TODO
- * @link todo
+ * This file is part of the php-gearman-admin framework.
+ * @link https://github.com/Ibmurai/php-gearman-admin
  *
  * @copyright Copyright 2012 Jens Riisom Schultz
  * @license   http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0

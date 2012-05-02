@@ -1,12 +1,16 @@
 <?php
 /**
+ * This file is part of the php-gearman-admin framework.
+ * @link https://github.com/Ibmurai/php-gearman-admin
  *
+ * @copyright Copyright 2012 Jens Riisom Schultz
+ * @license   http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0
  */
 require_once dirname(__FILE__) . '/GearmanAdminStatus.php';
 require_once dirname(__FILE__) . '/GearmanAdminWorker.php';
 require_once dirname(__FILE__) . '/GearmanAdminWorkers.php';
 /**
- * Query a gearman server to get the status of workers, jobs and functions.
+ * Query a gearman server to get the status of workers, jobs and functions, set max queue function settings or shut the server down.
  *
  * @author Jens Riisom
  */
