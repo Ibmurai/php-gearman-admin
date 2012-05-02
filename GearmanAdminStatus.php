@@ -74,7 +74,7 @@ class GearmanAdminStatus {
 	}
 
 	/**
-	 * Get the total number of workers, by function name.
+	 * Get the total number incomplete jobs by function name.
 	 *
 	 * @param string $function
 	 *
