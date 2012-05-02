@@ -1,0 +1,4 @@
+GearmanClusterAdmin
+-------------------
+
+PHP wrapper to query a gearman job server via telnet.
