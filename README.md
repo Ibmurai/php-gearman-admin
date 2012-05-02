@@ -9,7 +9,7 @@ Supports the full [gearman telnet administrative protocol](http://gearman.org/in
 Requirements
 ------------
 
-  * gearman v. 0.16 or better. Older version may work, but no guarantees.
+  * gearman v. 0.16 or better. Older versions may work, but no guarantees.
   * PHP 5.2
 
 
